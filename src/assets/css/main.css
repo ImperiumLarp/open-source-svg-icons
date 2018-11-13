@@ -2086,7 +2086,7 @@ input, select, textarea {
 		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
 		position: relative;
 		text-transform: uppercase;
-		background: url("../../images/banner.jpg");
+		background: url("../images/banner.jpg");
 		background-size: cover;
 		padding: 10em 0;
 	}
@@ -2097,7 +2097,7 @@ input, select, textarea {
 			line-height: 1.5em;
 			letter-spacing: 4px;
 			text-align: center;
-			margin: 0;
+      margin: 0;
 		}
 
 		#banner strong {
@@ -2116,7 +2116,7 @@ input, select, textarea {
 				width: 35px;
 				height: 141px;
 				margin-top: -70px;
-				background: url("images/bracket.svg");
+				background: url("../images/bracket.svg");
 				opacity: 0.15;
 			}
 
